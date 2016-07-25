@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GSXIP/giveathon-backend/issues"
   },
-  "homepage": "https://github.com/GSXIP/giveathon-backend#readme"
+  "homepage": "https://github.com/GSXIP/giveathon-backend#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
